@@ -63,6 +63,7 @@ Libs, programas e outras necessidades que o script precisa para rodar.
 .
 <br/>
 .
+<p align="left">(<a href="#sumário-">Voltar ao sumário</a>)</p>
 
 ## Execução ▶
 <br/>
@@ -83,6 +84,7 @@ Libs, programas e outras necessidades que o script precisa para rodar.
 .
 <br/>
 .
+<p align="left">(<a href="#sumário-">Voltar ao sumário</a>)</p>
 
 ## Responsável 👔
 Usuários que criaram e auxiliaram no desenvolvimento do(s) script(s).
@@ -104,3 +106,4 @@ Usuários que criaram e auxiliaram no desenvolvimento do(s) script(s).
 .
 <br/>
 .
+<p align="left">(<a href="#sumário-">Voltar ao sumário</a>)</p>
