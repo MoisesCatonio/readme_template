@@ -2,7 +2,7 @@
 Uma breve descrição sobre o projeto/cliente.
 
 ### Sumário 🔢
-<!-- Tabela com o conteúdo -->
+<!-- Lista com o conteúdo -->
 <details>
   <summary>Seções</summary>
   <ul>
@@ -41,6 +41,7 @@ Método utilizado, API, Raspagem, Selenium...
 .
 <br/>
 .
+<p align="left">(<a href="#sumário-">Voltar ao sumário</a>)</p>
 
 ## Dependências 🧩
 Libs, programas e outras necessidades que o script precisa para rodar.
