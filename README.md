@@ -16,7 +16,7 @@ Uma breve descrição sobre o projeto/cliente.
       <a href="#execução-">Execução</a>
     </li>
     <li>
-      <a href="#observações-">Execução</a>
+      <a href="#observações-">Observações</a>
     </li>
     <li>
       <a href="#responsável-">Responsável</a>
