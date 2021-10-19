@@ -5,11 +5,20 @@ Uma breve descrição sobre o projeto/cliente.
 <!-- Tabela com o conteúdo -->
 <details>
   <summary>Seções</summary>
-  <ol>
+  <ul>
     <li>
-      <a href="#metodo-de-integracao">Método de integração</a>
+      <a href="#método-de-integração-">Método de integração</a>
     </li>
-  </ol>
+    <li>
+      <a href="#dependências-">Dependências</a>
+    </li>
+    <li>
+      <a href="#execução-">Execução</a>
+    </li>
+    <li>
+      <a href="#responsável-">Responsável</a>
+    </li>
+  </ul>
 </details>
 
 ## Método de integração 🎲
