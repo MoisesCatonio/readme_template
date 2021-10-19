@@ -61,6 +61,17 @@ Link para documentação da API do clockify: https://clockify.me/developers-api
 
 ## Responsável 👔
 
-- Moisés Catônio (https://github.com/MoisesCatonio)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/MoisesCatonio">
+        <img src="https://avatars3.githubusercontent.com/u/9872016" width="100px;" alt="Foto do Moisés Catônio no GitHub"/><br>
+        <sub>
+          <b>Moisés Catônio</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="left">(<a href="#sumário-">Voltar ao sumário</a>)</p>
