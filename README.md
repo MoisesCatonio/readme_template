@@ -69,6 +69,7 @@ Libs, programas e outras necessidades que o script precisa para rodar.
 <p align="left">(<a href="#sumário-">Voltar ao sumário</a>)</p>
 
 ## Execução ▶
+Comandos para execução do projeto.
 <br/>
 .
 .<br/>
@@ -90,7 +91,7 @@ Libs, programas e outras necessidades que o script precisa para rodar.
 <p align="left">(<a href="#sumário-">Voltar ao sumário</a>)</p>
 
 ## Observações ‼
-Usuários que criaram e auxiliaram no desenvolvimento do(s) script(s).
+Observações sobre o projeto.
 <br/>
 .
 .<br/>
