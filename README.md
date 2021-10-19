@@ -23,82 +23,83 @@ Uma breve descrição sobre o projeto/cliente.
 
 ## Método de integração 🎲
 Método utilizado, API, Raspagem, Selenium...
+<br/>
 .
+.<br/>
 .
+<br/>
 .
+<br/>
 .
+<br/>
 .
+<br/>
 .
+<br/>
 .
+<br/>
 .
-.
-.
-.
-.
-.
-.
-.
-.
+<br/>
 .
 
 ## Dependências 🧩
 Libs, programas e outras necessidades que o script precisa para rodar.
-
+<br/>
 .
+.<br/>
 .
+<br/>
 .
+<br/>
 .
+<br/>
 .
+<br/>
 .
+<br/>
 .
+<br/>
 .
-.
-.
-.
-.
-.
-.
-.
-.
+<br/>
 .
 
 ## Execução ▶
-
+<br/>
 .
+.<br/>
 .
+<br/>
 .
+<br/>
 .
+<br/>
 .
+<br/>
 .
+<br/>
 .
+<br/>
 .
-.
-.
-.
-.
-.
-.
-.
-.
+<br/>
 .
 
 ## Responsável 👔
 Usuários que criaram e auxiliaram no desenvolvimento do(s) script(s).
-
+<br/>
 .
+.<br/>
 .
+<br/>
 .
+<br/>
 .
+<br/>
 .
+<br/>
 .
+<br/>
 .
+<br/>
 .
-.
-.
-.
-.
-.
-.
-.
-.
+<br/>
 .
