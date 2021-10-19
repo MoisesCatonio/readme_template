@@ -19,6 +19,9 @@ Uma breve descrição sobre o projeto/cliente.
       <a href="#observações-">Observações</a>
     </li>
     <li>
+      <a href="#documentação-relacionada-">Documentação relacionada</a>
+    </li>
+    <li>
       <a href="#responsável-">Responsável</a>
     </li>
   </ul>
@@ -111,6 +114,30 @@ Observações sobre o projeto.
 <br/>
 .
 <p align="left">(<a href="#sumário-">Voltar ao sumário</a>)</p>
+
+## Documentação relacionada 📖
+Documentações úteis para entender o contexto dos scripts.
+<br/>
+.
+.<br/>
+.
+<br/>
+.
+<br/>
+.
+<br/>
+.
+<br/>
+.
+<br/>
+.
+<br/>
+.
+<br/>
+.
+<p align="left">(<a href="#sumário-">Voltar ao sumário</a>)</p>
+
+
 
 ## Responsável 👔
 Usuários que criaram e auxiliaram no desenvolvimento do(s) script(s).
