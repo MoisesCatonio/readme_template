@@ -33,7 +33,9 @@ O clockify possui uma API (<a href="#documentação-relacionada-">Documentação
 <p align="left">(<a href="#sumário-">Voltar ao sumário</a>)</p>
 
 ## Dependências 🧩
-Python 3.x, requests (lib), beanalytic (lib interna).
+- Python 3.x
+- Requests (lib)
+- beanalytic (lib interna).
 
 <p align="left">(<a href="#sumário-">Voltar ao sumário</a>)</p>
 
